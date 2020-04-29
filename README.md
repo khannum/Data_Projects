@@ -6,7 +6,9 @@ Some files will be datasets and some will be my actual code and notebooks.
 
 Within this erpository you will find a variety of folders...
 
-- Machine Learning: These projects were written primarily in Python and implement a variety of machine learning techniques
-- R Projects: These projects are misc files from R Studio projects over the years
+- Data Visualizations: Contains various data Viz reports and dashboards from a variety of platforms
+- API's: Contains misc scripts and files that work with API's
+- Machine Learning: Contains files written primarily in Python and implement a variety of machine learning techniques
+- R Projects: Contains misc files from R Studio projects over the years
 
 Enjoy.
